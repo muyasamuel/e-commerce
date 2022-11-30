@@ -12,8 +12,9 @@ function Header() {
           <li>Contact </li>
         </ul>
       </nav>
-       
+       <div className='bg-yellow'></div>
        </div>
+       
   )
 }
 
